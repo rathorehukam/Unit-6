@@ -14,7 +14,7 @@
 
 
 
-v#include <iostream>
+#include <iostream>
 using namespace std;
 
 int midSquareHash(int key, int tableSize) 
